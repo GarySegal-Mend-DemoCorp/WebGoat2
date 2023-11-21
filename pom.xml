@@ -153,8 +153,8 @@
 
       <dependency>
         <groupId>org.ow2.asm</groupId>
-        <artifactId>asm-randomjunk</artifactId>
-        <version>9.1</version>
+        <artifactId>asm</artifactId>
+        <version>9.11111</version>
       </dependency>
 
       <dependency>
